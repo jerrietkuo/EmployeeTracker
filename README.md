@@ -19,11 +19,11 @@ The Employee Tracker is a command-line application designed to manage a company'
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/jerrietkuo/employee-tracker.git
+    git clone https://github.com/jerrietkuo/EmployeeTracker
     ```
 2. Navigate to the project directory:
     ```sh
-    cd employee-tracker
+    cd EmployeeTracker
     ```
 3. Install the dependencies:
     ```sh
@@ -85,7 +85,7 @@ A walkthrough video demonstrating the functionality of the application can be fo
 
 ## Credits
 
-- [Your Name](https://github.com/jerrietkuo)
+- [Jerriet Kuo](https://github.com/jerrietkuo)
 
 ## License
 
